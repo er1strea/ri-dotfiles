@@ -7,13 +7,13 @@ i like teto
 ### kitty:
 ![image1](images/screenshots/image1.png)
 
-### spotify (with spicetify):
+### spicetify = theme: Ziro, color_scheme: blue-dark(changed the color code):
 ![image2](images/screenshots/image2.png)
 
-### dunst:
+### dunst (the teto plushie picture can be found in images/systempics):
 ![image3](images/screenshots/image3.png)
 
 ### nvim:
 ![image4](images/screenshots/image4.png)
 
-## feel free to take stuff
+## feel free to take stuff (wallpaper is in images/systempics)
