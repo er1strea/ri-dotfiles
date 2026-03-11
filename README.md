@@ -7,7 +7,7 @@ i like teto
 ### kitty:
 ![image1](images/screenshots/image1.png)
 
-### spicetify = theme: Ziro, color_scheme: blue-dark(changed the color code):
+### spicetify = theme: Ziro, color_scheme: blue-dark(changed the color codes):
 ![image2](images/screenshots/image2.png)
 
 ### dunst (the teto plushie picture can be found in images/systempics):
@@ -16,4 +16,4 @@ i like teto
 ### nvim:
 ![image4](images/screenshots/image4.png)
 
-## feel free to take stuff (wallpaper is in images/systempics)
+## feel free to take stuff (wallpaper's in images/systempics)
